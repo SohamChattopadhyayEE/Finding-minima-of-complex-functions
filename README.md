@@ -12,5 +12,5 @@ Code compatible:
 This code is available for non-commercial purposes. Would appreciate an acknowledgment if you use it in your work.
 
 ## Implementation
-- Run code optimizer.py
+- Run code `optimizer.py`
 - 20 fitness functions are used for evaluation of GSA algorithm. 
