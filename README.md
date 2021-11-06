@@ -10,7 +10,7 @@ Information sciences 179.13 (2009): 2232-2248.](https://www.sciencedirect.com/sc
 
 ## Implementation
 - ### Arguments 
-        E:\.\directory> python optimizer.py --help
+        .\directory> python optimizer.py --help
         usage: optimizer.py [-h] [-is_GSA] [-is_sf] [-is_bcf] [-is_rhe] [-is_df] [-is_zf] [-is_lf] [-is_ef] [-is_s12f] [-is_s22f] [-is_rf]
                             [-is_s226f] [-is_stf] [-is_sf2f] [-is_sf6f] [-is_bf] [-is_rbf] [-is_gf] [-is_tf] [-is_hf3] [-is_hf1] [-is_exp]
                             [-p POP_SIZE] [-i ITER] [-r RUN]
