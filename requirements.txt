@@ -1,8 +1,6 @@
-Prerequisite:
-
-   Following packages needs to be installed:
-
-	1) NumPy
-	2) SciPy
-	3) sklearn
+matplotlib==3.2.1
+numpy==1.18.3
+pandas==1.0.3
+opencv-python==4.5.1.48
+scikit_learn==0.24.2
 
