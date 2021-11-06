@@ -63,4 +63,5 @@ Information sciences 179.13 (2009): 2232-2248.](https://www.sciencedirect.com/sc
                                 Population size
           -i ITER, --iter ITER  Number of iterations
           -r RUN, --run RUN     Number of runs
-- 20 fitness functions are used for evaluation of GSA algorithm. 
+- ### Run
+      .\directory>$python optimizer.py -p 50 -i 1000 -r 1
