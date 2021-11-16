@@ -8,6 +8,35 @@ Information sciences 179.13 (2009): 2232-2248.](https://www.sciencedirect.com/sc
 ## Dependencies
     pip install requirements.text
 
+## Complex Mathematical Functions 
+- ### Unimodal, Separable and Scalable functions
+    - Sphere function 
+    - Cigar or Bent Cigar function
+    - Rotated Hyper-ellipsoid (RHE) function
+    - Discus function
+- ### Unimodal, Inseparable and Non-scalable
+    - Zettl function
+    - Leon function
+    - Easom function
+- ### Unimodal, Inseparable and Scalable
+    - Schwefel 1.2 function
+    - Schwefel 2.2 function
+- ### Multimodal, Separable and Scalable
+    - Rastrigin function
+    - Schwefel 2.26 function
+    - Styblinski-Tang (ST) function
+- ### Multimodal, Inseparable and non-Scalable
+    - Schaffer F2 function
+    - Schaffer F6 function
+    - Bird function
+- ### Multimodal, Inseparable and Scalable
+    - Rosenbrock function
+    - Griewank function 
+    - Trigonometric function 
+- ### Hybrid functions
+    - Hybrid1 = Rastrigin function + Ciger function + Griewank function 
+    - Hybrid2 = Discus function + Rosenbrock function + Griewank function 
+
 ## Implementation
 - ### Arguments 
         .\directory> python optimizer.py --help
