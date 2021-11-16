@@ -36,7 +36,7 @@ Information sciences 179.13 (2009): 2232-2248.](https://www.sciencedirect.com/sc
 - ### Hybrid functions
     - Hybrid1 = Rastrigin function + Ciger function + Griewank function 
     - Hybrid2 = Discus function + Rosenbrock function + Griewank function 
-- ### 3-D Representations of the complex functions ![func1](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide1.JPG) ![func2](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide2.JPG) ![func3](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide3.JPG) 
+- ### 3-D Representations of aforementioned mathematical functions ![func1](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide1.JPG) ![func2](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide2.JPG) ![func3](https://github.com/SohamChattopadhyayEE/Finding-minima-of-complex-functions/blob/main/images_functions/Slide3.JPG) 
 
 ## Implementation
 - ### Arguments 
