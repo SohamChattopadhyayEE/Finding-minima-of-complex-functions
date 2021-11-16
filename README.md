@@ -64,4 +64,4 @@ Information sciences 179.13 (2009): 2232-2248.](https://www.sciencedirect.com/sc
           -i ITER, --iter ITER  Number of iterations
           -r RUN, --run RUN     Number of runs
 - ### Run
-      .\directory>$python optimizer.py -p 50 -i 1000 -r 1
+      .\directory> python optimizer.py -p 50 -i 1000 -r 1
